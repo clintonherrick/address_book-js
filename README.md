@@ -10,7 +10,7 @@ _It is an app that allows user to keep track of family and friends information i
 
 ## Setup
 
-* _git clone https://github.com/Rugbyman21/address-book-hw.git_
+* _git clone https://github.com/clintonherrick/address_book-js.git
 * _In the address-book folder, left click on address-book.html_
 * _Enjoy_
 
